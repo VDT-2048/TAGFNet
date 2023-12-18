@@ -14,6 +14,9 @@ The dataset and code are available at:https://pan.baidu.com/s/1wp_SlfP4iHs-X1-2P
 # Paper
 https://www.sciencedirect.com/science/article/abs/pii/S0952197622006303
 
+[2023-Thermal images-aware guided early fusion network for cross-illumination RGB-T salient object detection.pdf](https://github.com/VDT-2048/TAGFNet/files/13700252/2023-Thermal.images-aware.guided.early.fusion.network.for.cross-illumination.RGB-T.salient.object.detection.pdf)
+
+
 # Citation
 Wang H, Song K, Huang L, et al. Thermal images-aware guided early fusion network for cross-illumination RGB-T salient object detection[J]. Engineering Applications of Artificial Intelligence, 2023, 118: 105640.
 
